@@ -1,0 +1,33 @@
+body{
+    background-color: #1f9cb9;
+}
+
+h1{
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 40px;  
+}
+
+ 
+
+#a, #b
+{
+    left: 375px;
+    background-color: #dfb800;
+    border: solid #dfb800 5px ;
+
+}
+
+#a{
+    max-width: 700px;    
+    border-radius: 5px;
+}
+
+#b{
+    max-width: 300px;
+    border: #dfb800 20px ;
+    border-radius: 20px;
+}
+
+ 
